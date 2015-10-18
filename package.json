@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "This module abstracts the timeout and the event emitter pattern and provides a callback pattern that can be used as a route wrapper or can be promisified and used in a promise chaining pattern."
+  "description": "This module abstracts the timeout and the event emitter pattern and provides a callback pattern that can be used as a route wrapper or can be promisified and used in a promise chaining pattern.",
+  "dependencies": {
+    "palmettoflow-event": "^1.1.2"
+  }
 }
