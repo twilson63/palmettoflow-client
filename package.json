@@ -1,0 +1,12 @@
+{
+  "name": "palmettoflow-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This module abstracts the timeout and the event emitter pattern and provides a callback pattern that can be used as a route wrapper or can be promisified and used in a promise chaining pattern."
+}
